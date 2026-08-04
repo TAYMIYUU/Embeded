@@ -1,0 +1,1 @@
+._DeviceStatus_1wt8v_1>* svg[data-status]{transition:color .2s ease-in-out}._DeviceStatus_1wt8v_1>* svg[data-status=ONLINE]{color:var(--feedback-success-default)}._DeviceStatus_1wt8v_1>* svg[data-status=OFFLINE]{color:var(--feedback-neutral-default)}._DeviceStatus_1wt8v_1>* svg[data-status=DISABLED]{color:var(--feedback-warning-default)}
